@@ -26,8 +26,8 @@ print the characters and its huffmancode
 ## Program:
 
 ```
-DEVELOPED BY: ABINAYA S
-REGISTER NUMBER: 212222230002
+DEVELOPED BY: ALAGU NACHIYAR K
+REGISTER NUMBER: 212222240006
 ```
 
 # Get the input String
